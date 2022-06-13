@@ -1,0 +1,15 @@
+#header{
+    display: flex;
+     height: 11vh;
+     padding: 25px 0;
+     background: rgb(221, 203, 203);
+     align-items: center;
+     justify-content:space-around;
+     width: 100%;
+     position: fixed;
+     top: 0;
+}
+
+.login a{
+    margin: 0 10px;
+}
